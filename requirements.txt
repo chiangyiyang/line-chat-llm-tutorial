@@ -1,0 +1,9 @@
+folium==0.18.0
+google-generativeai==0.8.3
+googlemaps==4.10.0
+ipykernel==6.29.5
+ipython==8.29.0
+matplotlib==3.9.2
+openai==1.54.3
+pandas==2.2.3
+pillow==11.0.0
